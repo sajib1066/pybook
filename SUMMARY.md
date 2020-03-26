@@ -1,5 +1,5 @@
 # Table of contents
 * [পাইবুক ](README.md)
-  <a id="start-page"></a>
-* [পাইথন পরিচিতি ](start_page/intro.md)
+  <a id="start-history"></a>
+* [পাইথন পরিচিতি ](start-history/intro.md)
 * [পাইথন সেটআপ ](README.md)
