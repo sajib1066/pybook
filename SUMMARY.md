@@ -1,4 +1,4 @@
 # Table of contents
 
-* [পাইথন পরিচিতি](README.md)
+* [Initial page](README.md)
 
